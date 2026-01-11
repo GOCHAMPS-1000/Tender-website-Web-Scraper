@@ -104,5 +104,3 @@ python scraper_script.py
 This project is licensed under the **MIT License**. You are free to use, modify, and distribute this software for personal or commercial purposes. Please note that data extracted from TED Europa is subject to their own [Legal Notice](https://ted.europa.eu/en/legal-notice).
 
 ---
-
-**Would you like me to add a section on how to schedule this script to run automatically every week?**
